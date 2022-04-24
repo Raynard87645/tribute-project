@@ -1,16 +1,12 @@
-#img-div{
-    max-width: 600px;
-    height: 200px;
-    margin:0 auto;
-
-
-}
-
-img{
-
-    
-    margin: 0;
-    width: 100%;
+img {
+    max-width: 100%;
+    display: block;
     height: auto;
+    margin: 0 auto;
+  }
+  
+  #img-div {
+    background: white;
    
-}
+    margin: 0;
+  }
